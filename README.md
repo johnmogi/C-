@@ -1,7 +1,12 @@
 # C# Learning Journey
 [live podcast] https://drive.google.com/file/d/1UAKSAnGSS8SjtPDe-q77Xm0bePW4BunI/view?usp=sharing
+[deep dive podcast part 2 - the tribes!] https://drive.google.com/file/d/1zVbcFYtX_6-H4OoqoF-5CJl-E3U63neM/view?usp=sharing
 
 ![Alt text](./assets/images/unc.png)
+
+## Current task (process video)
+
+https://www.youtube.com/watch?v=yH-ewL_u8w8&list=PLdo4fOcmZ0oULFjxrOagaERVAMbmG20Xe&index=10
 
 Welcome to my C# learning journey! I’m currently studying C# to develop the skills needed for game design and development with Unity. This README documents my progress and provides a curated list of helpful resources that have supported my learning.
 
