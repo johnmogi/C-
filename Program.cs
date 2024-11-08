@@ -20,4 +20,20 @@
 int a = 4;
 int b = 5;
 int c = a + b;
-Console.WriteLine(c);
+
+bool tester = c > 10;
+if (tester) Console.WriteLine(c);
+else
+    Console.WriteLine($"{c} is not greater then 10");
+
+if (tester)
+{
+    Console.WriteLine("this is");
+    Console.WriteLine("Awesome");
+
+}
+else
+{
+    Console.WriteLine("this is");
+    Console.WriteLine("bad news");
+}
