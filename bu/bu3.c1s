@@ -1,0 +1,12 @@
+﻿var nums1 = new List<int> { [1, 2, 3, 4]};
+List<int> nums = [1, 2, 3, 4];
+
+Console.WriteLine(nums);
+
+// using System.Runtime.CompilerServices;
+
+// var numbers = new List<int> { 1, 5, 3, 7, 33, 4, 6 };
+// numbers.Sort();
+// Console.WriteLine($"there is a number that is 33 at {numbers.IndexOf(33)}");
+
+// Console.WriteLine(string.Join(" ", numbers));

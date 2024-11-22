@@ -1,0 +1,15 @@
+c:\Users\anist\OneDrive\Desktop\C_unity\MyProject\bin\Debug\net8.0\MyProject.exe
+c:\Users\anist\OneDrive\Desktop\C_unity\MyProject\bin\Debug\net8.0\MyProject.deps.json
+c:\Users\anist\OneDrive\Desktop\C_unity\MyProject\bin\Debug\net8.0\MyProject.runtimeconfig.json
+c:\Users\anist\OneDrive\Desktop\C_unity\MyProject\bin\Debug\net8.0\MyProject.dll
+c:\Users\anist\OneDrive\Desktop\C_unity\MyProject\bin\Debug\net8.0\MyProject.pdb
+c:\Users\anist\OneDrive\Desktop\C_unity\MyProject\obj\Debug\net8.0\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\anist\OneDrive\Desktop\C_unity\MyProject\obj\Debug\net8.0\MyProject.AssemblyInfoInputs.cache
+c:\Users\anist\OneDrive\Desktop\C_unity\MyProject\obj\Debug\net8.0\MyProject.AssemblyInfo.cs
+c:\Users\anist\OneDrive\Desktop\C_unity\MyProject\obj\Debug\net8.0\MyProject.csproj.CoreCompileInputs.cache
+c:\Users\anist\OneDrive\Desktop\C_unity\MyProject\obj\Debug\net8.0\MyProject.sourcelink.json
+c:\Users\anist\OneDrive\Desktop\C_unity\MyProject\obj\Debug\net8.0\MyProject.dll
+c:\Users\anist\OneDrive\Desktop\C_unity\MyProject\obj\Debug\net8.0\refint\MyProject.dll
+c:\Users\anist\OneDrive\Desktop\C_unity\MyProject\obj\Debug\net8.0\MyProject.pdb
+c:\Users\anist\OneDrive\Desktop\C_unity\MyProject\obj\Debug\net8.0\MyProject.genruntimeconfig.cache
+c:\Users\anist\OneDrive\Desktop\C_unity\MyProject\obj\Debug\net8.0\ref\MyProject.dll
